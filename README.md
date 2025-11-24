@@ -1,9 +1,7 @@
 
 ## 🎬 Movie Recommender System**
 
-A beautiful movie recommendation web app built with Streamlit and machine learning.
-
-## Overview
+**Overview** 
 CineMatch AI is an intelligent movie recommendation system that helps you discover your next favorite film. Using advanced machine learning algorithms, it analyzes movie content and patterns to suggest movies tailored to your preferences.
 
 ## How It Works 🔍
